@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/twintower-systems/TwinClick-App/main/assets/logo.png](https://avatars.githubusercontent.com/u/283415488?s=200&v=4" width="110" alt="TwinClick"/>
+  <img src="https://avatars.githubusercontent.com/u/283415488?s=400&u=dbb4a2777dfa72288fe9021af2bbec5ae146b281&v=4" width="110" alt="TwinClick"/>
 </p>
 
 <h1 align="center">TwinClick</h1>
